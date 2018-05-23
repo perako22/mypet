@@ -1,1 +1,1 @@
-web: gunicorn my_pets:app
+web: gunicorn mypets:app
